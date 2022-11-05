@@ -2,7 +2,7 @@
 
 ### :round_pushpin: <strong>Sobre o projeto:</strong>
 
-O objetivo desse projeto era analisar e tratar 7 base de dados correspondentes a pesquisa World Happiness Report dos anos de 2015 a 2022 e gerar informações através de um dashboard.
+O objetivo desse projeto foi analisar e tratar 7 bases de dados correspondentes a pesquisa World Happiness Report dos anos de 2015 a 2022 e gerar informações através de um dashboard.
 
 ### :computer: <strong>Tecnologias utilizadas:</strong>
 - [Python](https://www.python.org/)
@@ -33,5 +33,6 @@ git clone https://github.com/lauramsromano/World_Happines.git
 
 ![image](https://user-images.githubusercontent.com/106887746/200094308-2299d0d0-147d-4803-a4ea-49adca9df9ed.png)
 
-![image](https://user-images.githubusercontent.com/106887746/200094418-d364e664-fc44-4d57-93db-5f8d6dd5af80.png)
+![image](https://user-images.githubusercontent.com/106887746/200094443-fd2ed9f1-eca2-4e76-a39f-aa5a77949094.png)
+
 
