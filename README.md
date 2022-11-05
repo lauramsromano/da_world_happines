@@ -2,10 +2,12 @@
 
 ### :round_pushpin: <strong>Sobre o projeto:</strong>
 
-O objetivo desse projeto era analisar e tratar 7 arquivos correspondentes a pesquisa World Happiness Report dos anos de 2015 e 2022 e gerar informações através de um dashboard.
+O objetivo desse projeto era analisar e tratar 7 base de dados correspondentes a pesquisa World Happiness Report dos anos de 2015 a 2022 e gerar informações através de um dashboard.
 
 ### :computer: <strong>Tecnologias utilizadas:</strong>
 - [Python](https://www.python.org/)
+- [Pandas](https://pandas.pydata.org/docs/index.html)
+- [Datetime](https://docs.python.org/3/library/datetime.html)
 - [Google Colab](https://colab.research.google.com/)
 - [Power B.I](https://powerbi.microsoft.com/pt-br/)
 
@@ -24,5 +26,10 @@ git clone https://github.com/lauramsromano/World_Happines.git
 - Para visuzalização do dashboard: <br/>
 
 1º Abra o Power B.I na sua máquina; <br/>
-2º Em "Arquivo", clique em "Obter dados", em seguida clique em "Texto/CSV" e selecione o arquivo "World Happiness Report up to 2022.pbix"; <br/>
-3º utilize os filtros para ver as informações necessárias.
+2º Em "Arquivo", clique em "Abrir relatório", em seguida selecione o arquivo "World Happiness Report up to 2022.pbix"; <br/>
+3º Utilize os filtros para ver as informações necessárias.
+
+### :newspaper: <strong>O Dashboard: </strong>
+
+![image](https://user-images.githubusercontent.com/106887746/200094308-2299d0d0-147d-4803-a4ea-49adca9df9ed.png)
+
