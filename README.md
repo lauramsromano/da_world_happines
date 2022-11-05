@@ -20,7 +20,7 @@ O objetivo desse projeto foi analisar e tratar 7 bases de dados correspondentes 
 git clone https://github.com/lauramsromano/World_Happines.git
 ```
 2º Inicie o arquivo 'World Happiness Report up to 2022.ipynb' com uma IDE de sua preferência; <br/>
-3º Se no Google Colab: importe os arquivos .csv na parte de "Arquivo", se for outra IDE, verifique necessidade de importação dos arquivos; <br/>
+3º Se no Google Colab: importe os arquivos .csv presente na paste "folder" na parte de "Arquivo" do Colab, se for outra IDE, verifique necessidade de importação dos arquivos; <br/>
 3º Execute o arquivo, para isso procure pelo comando 'run python file' ou similar; <br/>
 
 - Para visuzalização do dashboard: <br/>
