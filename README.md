@@ -33,3 +33,5 @@ git clone https://github.com/lauramsromano/World_Happines.git
 
 ![image](https://user-images.githubusercontent.com/106887746/200094308-2299d0d0-147d-4803-a4ea-49adca9df9ed.png)
 
+![image](https://user-images.githubusercontent.com/106887746/200094418-d364e664-fc44-4d57-93db-5f8d6dd5af80.png)
+
