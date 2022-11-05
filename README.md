@@ -12,6 +12,7 @@ O objetivo desse projeto era analisar e tratar 7 arquivos correspondentes a pesq
 ### :gear: <strong>Como executar:</strong>
 
 - Para olhar a tratativa dos dados:<br/>
+
 1º Clone o repositório abaixo:
 ```shell
 git clone https://github.com/lauramsromano/World_Happines.git
@@ -20,7 +21,8 @@ git clone https://github.com/lauramsromano/World_Happines.git
 3º Se no Google Colab: importe os arquivos .csv na parte de Arquivo, se for outra IDE, verifique necessidade de importação dos arquivos; <br/>
 3º Execute o arquivo, para isso procure pelo comando 'run python file' ou similar; <br/>
 
-- Para visuzalização do dashboard:<br/>
+- Para visuzalização do dashboard: <br/>
+
 1º Abra o Power B.I na sua máquina; <br/>
 2º Em "Arquivo", clique em "Obter dados", em seguida clique em "Texto/CSV" e selecione o arquivo "World Happiness Report up to 2022.pbix" <br/>
 3º utilize os filtros para ver as informações necessárias.
