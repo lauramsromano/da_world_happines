@@ -31,7 +31,7 @@ git clone https://github.com/lauramsromano/World_Happines.git
 
 ### :newspaper: <strong>O Dashboard: </strong>
 
-![image](https://user-images.githubusercontent.com/106887746/200094308-2299d0d0-147d-4803-a4ea-49adca9df9ed.png)
+![image](https://user-images.githubusercontent.com/106887746/200095441-72941832-e42b-482b-af8c-ad7435009e42.png)
 
 ![image](https://user-images.githubusercontent.com/106887746/200094443-fd2ed9f1-eca2-4e76-a39f-aa5a77949094.png)
 
