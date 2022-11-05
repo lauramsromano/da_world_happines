@@ -24,5 +24,5 @@ git clone https://github.com/lauramsromano/World_Happines.git
 - Para visuzalização do dashboard: <br/>
 
 1º Abra o Power B.I na sua máquina; <br/>
-2º Em "Arquivo", clique em "Obter dados", em seguida clique em "Texto/CSV" e selecione o arquivo "World Happiness Report up to 2022.pbix" <br/>
+2º Em "Arquivo", clique em "Obter dados", em seguida clique em "Texto/CSV" e selecione o arquivo "World Happiness Report up to 2022.pbix"; <br/>
 3º utilize os filtros para ver as informações necessárias.
